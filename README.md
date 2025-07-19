@@ -1,2 +1,2 @@
 # js-practice-repo
-js programs
+In this repository, I will include the JavaScript programs that I am practicing.
